@@ -1,0 +1,17 @@
+#documents
+*.csv
+*.log
+*.xlsx
+*.docx
+
+#env
+# 機密
+venv/
+.env
+.venv/
+
+# Python
+__pycache__/
+
+# 系統
+.DS_Store
